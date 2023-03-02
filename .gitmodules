@@ -1,0 +1,9 @@
+[submodule "common"]
+	path = common
+	url = ../common-port
+[submodule "graphics3d"]
+	path = graphics3d
+	url = ../graphics3d-port
+[submodule "base"]
+	path = base
+	url = ../base-port-macos
