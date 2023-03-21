@@ -1,1 +1,1 @@
-../base/libmpg123/include/mpg123.h
+../base/mpg123/include/mpg123.h
