@@ -1,0 +1,12 @@
+time-*/
+workspace.xml
+cmake-build-*/
+cmake-time-*/
+**/doxygen.directory
+**/.vs
+.DS_Store
+solution-windows/packages
+_matter.zip
+_packages.txt
+_packages.txt
+deployment.rc
