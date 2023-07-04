@@ -1,0 +1,1 @@
+../base/pugixml/include/pugixml.hpp
