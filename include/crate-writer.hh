@@ -1,0 +1,1 @@
+../graphics3d/tinyusdz/include/crate-writer.hh

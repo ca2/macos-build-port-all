@@ -1,0 +1,1 @@
+../../graphics3d/tinyusdz/tinyusdz/src/tydra/render-data.hh

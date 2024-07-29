@@ -1,0 +1,1 @@
+../graphics3d/tinyusdz/include/define-type-trait.inc
