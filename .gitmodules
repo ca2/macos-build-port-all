@@ -14,7 +14,3 @@
 	path = graphics
 	url = ../port-graphics
 	branch = main
-[submodule "port-user-generation1"]
-	path = port-user-generation1
-	url = ../../cpp-port/port-user-generation1
-	branch = main
