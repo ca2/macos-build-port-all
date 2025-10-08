@@ -2,3 +2,19 @@
 	path = graphics3d
 	url = ../macos-lowland-port-graphics3d
 	branch = main
+[submodule "base"]
+	path = base
+	url = ../macos-port-base
+	branch = main
+[submodule "common"]
+	path = common
+	url = ../port-common
+	branch = main
+[submodule "graphics"]
+	path = graphics
+	url = ../port-graphics
+	branch = main
+[submodule "port-user-generation1"]
+	path = port-user-generation1
+	url = ../../cpp-port/port-user-generation1
+	branch = main
