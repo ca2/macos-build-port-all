@@ -12,7 +12,3 @@
 	path = user-generation1
 	url = ../../cpp-port/user-generation1
 	branch = main
-[submodule "graphics3d"]
-	path = graphics3d
-	url = ../macos-lowland-port-graphics3d
-	branch = main
